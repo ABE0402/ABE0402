@@ -1,4 +1,4 @@
-## 🛠 기술 스택
+##  기술 스택
 
 <p align="left">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
@@ -15,7 +15,7 @@
 
 <br>
 
-## 📊 GitHub 통계
+##  GitHub 통계
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ABE0402&show_icons=true&theme=material-palenight&bg_color=ffffff&hide_border=true" alt="ABE0402's GitHub stats" />
@@ -31,7 +31,7 @@
 
 <br>
 
-## 📈 기여 활동 요약
+##  기여 활동 요약
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ABE0402&theme=material-palenight&bg_color=ffffff&hide_border=true" alt="ABE0402's streak stats" />
